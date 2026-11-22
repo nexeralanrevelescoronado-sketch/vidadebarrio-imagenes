@@ -12,5 +12,26 @@
     "alto": 1599,
     "peso_kb": 70,
     "alt": "Puerta verde con la letra H del baño de Café Pía, con espejo en forma de medio círculo, lámpara de cristal y flores al fondo"
+  },
+  {
+    "archivo": "upper-chapalita/cafe-frio.webp",
+    "ancho": 900,
+    "alto": 1600,
+    "peso_kb": 76,
+    "alt": "Café frío con espuma de leche sirviéndose en la máquina Santos by Upper, en un vaso con el logo de Santos"
+  },
+  {
+    "archivo": "upper-chapalita/barra-santos.webp",
+    "ancho": 900,
+    "alto": 1600,
+    "peso_kb": 88,
+    "alt": "Barra Santos by Upper con la máquina de café y su pantalla para elegir la bebida, dentro de la tienda Upper"
+  },
+  {
+    "archivo": "upper-chapalita/mesas-exterior.webp",
+    "ancho": 900,
+    "alto": 1600,
+    "peso_kb": 93,
+    "alt": "Mesas rojas y sombrillas afuera de la tienda Upper en Chapalita, con un vaso Santos by Upper en primer plano"
   }
 ]
