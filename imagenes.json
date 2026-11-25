@@ -33,5 +33,33 @@
     "alto": 1600,
     "peso_kb": 93,
     "alt": "Mesas rojas y sombrillas afuera de la tienda Upper en Chapalita, con un vaso Santos by Upper en primer plano"
+  },
+  {
+    "archivo": "damiana-cafe-libros/patio-selva.webp",
+    "ancho": 900,
+    "alto": 1200,
+    "peso_kb": 238,
+    "alt": "Patio de Damiana, café y libros, con techo de cristal, helechos colgantes, árboles dentro del lugar y sillas verdes de mimbre"
+  },
+  {
+    "archivo": "damiana-cafe-libros/libreria-interior.webp",
+    "ancho": 900,
+    "alto": 1200,
+    "peso_kb": 202,
+    "alt": "Interior de Damiana con libreros de madera, un árbol que atraviesa el lugar, mesas, sillas verdes, un arbolito de Navidad y helechos colgando"
+  },
+  {
+    "archivo": "damiana-cafe-libros/gelatina-maracuya.webp",
+    "ancho": 900,
+    "alto": 1200,
+    "peso_kb": 73,
+    "alt": "Gelatina de maracuyá con crema y fresas en un vaso, sobre una mesa de madera en Damiana"
+  },
+  {
+    "archivo": "damiana-cafe-libros/cuenta-en-libro.webp",
+    "ancho": 900,
+    "alto": 1200,
+    "peso_kb": 35,
+    "alt": "La cuenta de Damiana, que se entrega dentro de un libro de pasta roja"
   }
 ]
